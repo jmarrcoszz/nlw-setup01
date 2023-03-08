@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> I/O </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Aproveitando o evento NLW para colocar em prática o que preciso fazer todos os dia ao chegar e sair do trablhos<br/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O I/O é um app para ajudar a manter o controle ao chegar e sair do ambiente de trabalho.
 
 - [Visite o projeto online](https://jmarrcoszz.github.io/nlw-setup01/)
 

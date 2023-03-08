@@ -29,7 +29,7 @@ header {
 button {
     padding: 16px 24px;
     border-radius: 8px;
-    border: 1px solid #8B5CF6;
+    border: 1px solid #84CC16;
     background-color: transparent;
     color: white;
 
@@ -111,8 +111,8 @@ input{
 
 /*pseudo-selector*/
 input:checked{
-    background: #8B5CF6;
-    border: 2px solid #A78BFA;
+    background: #84CC16;
+    border: 2px solid #A3E635;
 }
 
 @media (max-width:570px) {
