@@ -18,7 +18,7 @@ Aproveitando o evento NLW para colocar em prática o que preciso fazer todos os 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
