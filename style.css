@@ -50,12 +50,15 @@ button {
 
     padding: 182px 48px 48px;
     width: fit-content;
+    
+
 }
 
 .habits{
     margin-top: 60px;
     display: flex;
     flex-direction: column;
+    
 
     gap: 24px;
 }
@@ -64,7 +67,7 @@ button {
     width: 64px;
     height: 64px;
 
-    font-size: 32px;
+    font-size: 30px;
 
     display: flex;
     align-items: center;
